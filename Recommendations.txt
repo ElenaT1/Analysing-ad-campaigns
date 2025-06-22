@@ -1,0 +1,7 @@
+Statistics tests showed the following results:
+
+Click-through Rate and Conversion Rate Proxy: No statistically significant differences observed between Variation A and B. User engagement and conversion do not differ much across groups and geographies.
+
+Profit per Click and Profit per Money Spent: Both metrics demonstrated statistically significant improvement under Variation A (p < 0.001), indicating stronger financial efficiency and higher profitability compared to Variation B.
+
+Recommendation: The A/B test shows statistically conclusive results with respect to financial performance. Although user behavior metrics are similar, the difference in profitability metrics provides strong evidence in favor of Variation A. It is recommended to proceed with Variation A, as it demonstrates clear and consistent improvements in key financial metrics.
